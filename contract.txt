@@ -1,0 +1,4 @@
+Deployment Ethereum address: 0xc7f10b2dd8A347faEaed56da59E32DEE907E4b5F
+
+RamenToken on Kovan: 0x284C330eF611aa96382b4236Ae5c2A6dfeE906EA
+RamenCrowdsale on Kovan: 0xDd114FDD56dE6aD1aA3Fe61567C4A506551Cb203
